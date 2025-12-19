@@ -1,6 +1,5 @@
 # MCU SoC – Physical Design Case Study (OpenLane / Sky130)
 
-Hi 👋
 
 This project is a hands-on **Physical Design case study** where I took a small MCU-class SoC from RTL all the way through **full place & route, CTS, PDN, routing, and signoff** using **OpenLane v1.1.x** and the **Sky130** PDK.
 
